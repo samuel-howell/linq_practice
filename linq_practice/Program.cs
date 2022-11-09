@@ -177,3 +177,7 @@ public class Student
 }
 
 
+
+
+
+// continue on https://learn.microsoft.com/en-us/dotnet/framework/data/adonet/sql/linq/walkthrough-querying-across-relationships-csharp 
